@@ -1,0 +1,17 @@
+[
+  { "id": "00000000-0000-0000-0000-0000000e0001", "name": "Drill Rig Alpha",    "type": "Drill",     "locationId": "7c9e6679-7425-40de-944b-e07fc1f90ae7", "status": "Available",   "lastServiceDate": "2025-04-10T08:00:00+00:00" },
+  { "id": "00000000-0000-0000-0000-0000000e0002", "name": "Loader Beta",        "type": "Loader",    "locationId": "7c9e6679-7425-40de-944b-e07fc1f90ae7", "status": "Available",   "lastServiceDate": "2025-03-22T08:00:00+00:00" },
+  { "id": "00000000-0000-0000-0000-0000000e0003", "name": "Excavator Gamma",    "type": "Excavator", "locationId": "8d0f7780-8536-51ef-a55c-f18fd2a01bf8", "status": "Available",   "lastServiceDate": "2025-05-01T08:00:00+00:00" },
+  { "id": "00000000-0000-0000-0000-0000000e0004", "name": "Crusher Delta",      "type": "Crusher",   "locationId": "7c9e6679-7425-40de-944b-e07fc1f90ae7", "status": "InUse",       "lastServiceDate": "2025-05-30T08:00:00+00:00" },
+  { "id": "00000000-0000-0000-0000-0000000e0005", "name": "Conveyor Epsilon",   "type": "Conveyor",  "locationId": "8d0f7780-8536-51ef-a55c-f18fd2a01bf8", "status": "Available",   "lastServiceDate": null },
+  { "id": "00000000-0000-0000-0000-0000000e0006", "name": "Pump Zeta",          "type": "Pump",      "locationId": "7c9e6679-7425-40de-944b-e07fc1f90ae7", "status": "Maintenance", "lastServiceDate": "2025-02-14T08:00:00+00:00" },
+  { "id": "00000000-0000-0000-0000-0000000e0007", "name": "Drill Rig Eta",      "type": "Drill",     "locationId": "8d0f7780-8536-51ef-a55c-f18fd2a01bf8", "status": "Available",   "lastServiceDate": null },
+  { "id": "00000000-0000-0000-0000-0000000e0008", "name": "Loader Theta",       "type": "Loader",    "locationId": "c3d4e5f6-a7b8-9012-cdef-345678901234", "status": "Available",   "lastServiceDate": "2025-04-28T08:00:00+00:00" },
+  { "id": "00000000-0000-0000-0000-0000000e0009", "name": "Excavator Iota",     "type": "Excavator", "locationId": "8d0f7780-8536-51ef-a55c-f18fd2a01bf8", "status": "InUse",       "lastServiceDate": "2025-05-15T08:00:00+00:00" },
+  { "id": "00000000-0000-0000-0000-0000000e0010", "name": "Crane Kappa",        "type": "Crane",     "locationId": "c3d4e5f6-a7b8-9012-cdef-345678901234", "status": "Available",   "lastServiceDate": null },
+  { "id": "00000000-0000-0000-0000-0000000e0011", "name": "Forklift Lambda",    "type": "Forklift",  "locationId": "d4e5f6a7-b8c9-0123-def0-456789012345", "status": "Available",   "lastServiceDate": "2025-03-05T08:00:00+00:00" },
+  { "id": "00000000-0000-0000-0000-0000000e0012", "name": "Bulldozer Mu",       "type": "Bulldozer", "locationId": "c3d4e5f6-a7b8-9012-cdef-345678901234", "status": "Maintenance", "lastServiceDate": "2025-01-20T08:00:00+00:00" },
+  { "id": "00000000-0000-0000-0000-0000000e0013", "name": "Grader Nu",          "type": "Grader",    "locationId": "d4e5f6a7-b8c9-0123-def0-456789012345", "status": "Available",   "lastServiceDate": null },
+  { "id": "00000000-0000-0000-0000-0000000e0014", "name": "Compactor Xi",       "type": "Compactor", "locationId": "7c9e6679-7425-40de-944b-e07fc1f90ae7", "status": "InUse",       "lastServiceDate": "2025-05-08T08:00:00+00:00" },
+  { "id": "00000000-0000-0000-0000-0000000e0015", "name": "Scraper Omicron",    "type": "Scraper",   "locationId": "8d0f7780-8536-51ef-a55c-f18fd2a01bf8", "status": "Available",   "lastServiceDate": null }
+]
