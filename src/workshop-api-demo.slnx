@@ -1,4 +1,19 @@
 <Solution>
+  <Folder Name="/docs/">
+    <File Path="../docs/ARCHITECTURE.md" />
+  </Folder>
+  <Folder Name="/docs/features/" />
+  <Folder Name="/docs/features/002_add_mock_data/">
+    <File Path="../docs/features/002_add_mock_data/code-review.md" />
+    <File Path="../docs/features/002_add_mock_data/feature-finalization-process.md" />
+    <File Path="../docs/features/002_add_mock_data/feature-implementation-process.md" />
+    <File Path="../docs/features/002_add_mock_data/feature-plan-process.md" />
+    <File Path="../docs/features/002_add_mock_data/feature-scaffold-process.md" />
+    <File Path="../docs/features/002_add_mock_data/implementation.md" />
+    <File Path="../docs/features/002_add_mock_data/lessons.md" />
+    <File Path="../docs/features/002_add_mock_data/plan.md" />
+    <File Path="../docs/features/002_add_mock_data/specification.md" />
+  </Folder>
   <Project Path="Application/Application.csproj" />
   <Project Path="Core.Domain.Tests/Core.Domain.Tests.csproj" />
   <Project Path="Core.Domain/Core.Domain.csproj" />
