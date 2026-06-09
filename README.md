@@ -43,6 +43,15 @@ The `docs/features/` folder contains fully completed walkthroughs:
 
 Study `002_add_mock_data/` to see how each document is written, how deviations from the plan are recorded, and how lessons are extracted for reuse.
 
+For a step-by-step recap of how each skill was invoked during that feature, see the `-process` files in [`002_add_mock_data/`](docs/features/002_add_mock_data/):
+
+| File | What it shows |
+|---|---|
+| [`feature-scaffold-process.md`](docs/features/002_add_mock_data/feature-scaffold-process.md) | How `/feature-scaffold` was run |
+| [`feature-plan-process.md`](docs/features/002_add_mock_data/feature-plan-process.md) | How `/lessons-apply` + `/feature-plan` were run |
+| [`feature-implementation-process.md`](docs/features/002_add_mock_data/feature-implementation-process.md) | How implementation was guided by the plan |
+| [`feature-finalization-process.md`](docs/features/002_add_mock_data/feature-finalization-process.md) | How `/code-review`, `/feature-implementation-doc`, and `/feature-lessons-learned` were run |
+
 ---
 
 ## The demo codebase
